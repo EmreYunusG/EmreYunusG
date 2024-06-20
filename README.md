@@ -1,4 +1,4 @@
-👋 Hi, I’m Yunus Emre,
+ I’m Yunus Emre,
  I’m interested in data analysis
 
 
